@@ -1,0 +1,1 @@
+Compile and run WonderlandGame.java to exeecute program.

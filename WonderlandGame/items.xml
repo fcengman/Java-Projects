@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<game>
+    <item identifier="none">
+        <name>No name</name>
+        <description>No description</description>
+        <pickupable>0</pickupable>
+        <hidden>0</hidden>
+        <itemUse>none</itemUse>
+</item>
+    <item identifier="key">
+        <identifier>key</identifier>
+        <name>rusty key</name>
+        <description>The key is rusty, and looks well used. It looks like it would fit a door lock.</description>
+        <pickupable>1</pickupable>
+        <hidden>1</hidden>
+        <itemUse>use_key_hall</itemUse>
+</item>
+    <item identifier="spring">
+        <name>winding spring</name>
+        <description>The missing winding spring from the rabbit's pocket watch.</description>
+        <pickupable>1</pickupable>
+        <hidden>1</hidden>
+        <itemUse>none</itemUse>
+
+</item>
+    <item identifier="wheel">
+        <name>crown wheel</name>
+        <description>It is the missing crown wheel from the rabbit's pocket watch.</description>
+        <pickupable>1</pickupable>
+        <hidden>1</hidden>
+        <itemUse>none</itemUse>
+</item>
+    <item identifier="hand">
+        <name>minute hand</name>
+        <description>It is the missing crown wheel from the rabbit's pocket watch.</description>
+        <pickupable>1</pickupable>
+        <hidden>1</hidden>
+        <itemUse>none</itemUse>
+</item>
+    <item identifier="screw">
+        <name>balance screw</name>
+        <description>It is the missing balance screw from the rabbit's pocket watch.</description>
+        <pickupable>1</pickupable>
+        <hidden>1</hidden>
+        <itemUse>none</itemUse>
+</item>
+    <item identifier="cake">
+        <name>piece of cake</name>
+        <description>The cake has red frosting, there is a message on it that says "Eat Me".</description>
+        <pickupable>1</pickupable>
+        <hidden>1</hidden>
+        <itemUse>use_cake_cottage</itemUse>
+    </item>
+    <item identifier="oyster">
+        <name>plump oyster</name>
+        <description>A delicious looking oyster.</description>
+        <pickupable>1</pickupable>
+        <hidden>1</hidden>
+        <itemUse>give_oyster_walrus</itemUse>
+    </item>
+    <item identifier="bottle">
+        <name>small bottle</name>
+        <description>A small glass bottle. It is empty, the label says "drink me".</description>
+        <pickupable>1</pickupable>
+        <hidden>0</hidden>
+        <itemUse>use_bottle_garden</itemUse>
+    </item>
+    <item identifier="brush">
+        <name>paint brush</name>
+        <description>The paint brush is covered in red paint. It was used to paint the roses red.</description>
+        <pickupable>1</pickupable>
+        <hidden>0</hidden>
+        <itemUse>get_brush</itemUse>
+    </item>
+    <item identifier="mallet">
+        <name>flamingo mallet</name>
+        <description>The flamingo is being used as a mallet for the croquet game.</description>
+        <pickupable>1</pickupable>
+        <hidden>0</hidden>
+        <itemUse>use_mallet_castle</itemUse>
+    </item>
+    <item identifier="mushroom">
+        <name>piece of a mushroom</name>
+        <description>A piece of the mushroom. It is SPOTTED.</description>
+        <pickupable>1</pickupable>
+        <hidden>0</hidden>
+        <itemUse>drop_mushroom_party</itemUse>
+    </item>
+    <item identifier="cup">
+        <name>overturned tea cup</name>
+        <description>An overturned SPOTTED tea cup. You think you saw it move an inch.</description>
+        <pickupable>0</pickupable>
+        <hidden>0</hidden>
+        <itemUse>none</itemUse>
+    </item>
+</game>

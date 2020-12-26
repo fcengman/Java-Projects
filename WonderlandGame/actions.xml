@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<game>
+    <action typeOfAction="none"></action>
+    <action typeOfAction="north"></action>
+    <action typeOfAction="east"></action>
+    <action typeOfAction="south"></action>
+    <action typeOfAction="west"></action>
+    <action typeOfAction="n"></action>
+    <action typeOfAction="e"></action>
+    <action typeOfAction="s"></action>
+    <action typeOfAction="w"></action>
+    <action typeOfAction="get"></action>
+    <action typeOfAction="use"></action>
+    <action typeOfAction="give"></action>
+    <action typeOfAction="drop"></action>
+    <action typeOfAction="examine"></action>
+    <action typeOfAction="talk"></action>
+    <action typeOfAction="inventory"></action>
+    <action typeOfAction="inven"></action>
+    <action typeOfAction="i"></action>
+    <action typeOfAction="look"></action>
+    <action typeOfAction="q"></action>
+    <action typeOfAction="quit"></action>
+
+</game>

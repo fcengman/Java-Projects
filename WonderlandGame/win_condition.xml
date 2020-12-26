@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<game>
+<winCondition>
+    <actor>rabbit</actor>
+    <item1>hand</item1>
+    <item2>wheel</item2>
+    <item3>spring</item3>
+    <item4>screw</item4>
+</winCondition>
+</game>

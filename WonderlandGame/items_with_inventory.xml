@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<game>
+    <item identifier="table">
+        <name>glass table</name>
+        <description>A three-legged table, all made of solid glass.</description>
+        <locked>0</locked>
+        <itemUse>none</itemUse>
+        <item1>bottle</item1>
+        <item2>empty</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+    </item>
+    <item identifier="chest">
+        <name>small chest</name>
+        <description>The small chest looks like it contains personal items. An inscription reads, "a gift from the caterpillar". The box needs a five letter code to unlock it.</description>
+        <locked>1</locked>
+        <itemUse>use_chest</itemUse>
+        <item1>wheel</item1>
+        <item2>key</item2>
+        <item3>cake</item3>
+        <item4>empty</item4>
+    </item>
+    <item identifier="pond">
+        <name>murky pond</name>
+        <description>You inspect the murky pond. It looks like there is something at the bottom of the pond.</description>
+        <locked>0</locked>
+        <itemUse>none</itemUse>
+        <item1>oyster</item1>
+        <item2>empty</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+    </item>
+</game>

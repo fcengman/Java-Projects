@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<game>
+    <actor identifier="none">
+        <name>No name</name>
+        <description>No description</description>
+        <dialogue>no dialogue</dialogue>
+        <currentLocation>none</currentLocation>
+        <item1>empty</item1>
+        <item2>empty</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+    </actor>
+    <actor identifier="rabbit">
+        <name>the White Rabbit</name>
+        <description>He is a very distinguished rabbit, always wearing gloves, a waistcoat, and a pocket watch.</description>
+        <dialogue>"I'm late! I'm late!" Exclaims the rabbit, "And my watch broke on the way down here. I'll never make it on time with my watch in this condition. Bring me the four missing pieces of my watch, the minute hand, the balance screw, the crown wheel, and the winding spring. Then I will take you home. I know I left at least once piece at my cottage."</dialogue>
+        <currentLocation>start</currentLocation>
+        <item1>empty</item1>
+        <item2>empty</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+    </actor>
+    <actor identifier="hatter">
+        <name>the Mad Hatter</name>
+        <description>The Mad Hatter sits at the table enjoying his tea. He wears a large top hat with a hatband reading "In this style 10/6".</description>
+        <dialogue>"Would you like some tea?" Said the Mad Hatter. "I have a riddle for you. Why is this tea cup upside down?"</dialogue>
+        <currentLocation>party</currentLocation>
+        <item1>empty</item1>
+        <item2>empty</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+    </actor>
+    <actor identifier="queen">
+        <name>the queen of hearts</name>
+        <description>The Queen of Hearts is dressed in red and white. She glares down at the playing card subjects.</description>
+        <dialogue>"Do you play croquet?" The Queen of Hearts asked.</dialogue>
+        <currentLocation>castle</currentLocation>
+        <item1>empty</item1>
+        <item2>empty</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+    </actor>
+    <actor identifier="caterpillar">
+        <name>the smoking Caterpillar</name>
+        <description>A caterpillar. Sitting on a mushroom...and smoking a pipe.</description>
+        <dialogue>"There is nothing remarkable in that," said the caterpillar. "Caterpillars often relax on mushrooms. Did you come from the rabbit's cottage? I will now blow the vowels. A-E-I-O-U."</dialogue>
+        <currentLocation>garden</currentLocation>
+        <item1>empty</item1>
+        <item2>empty</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+    </actor>
+    <actor identifier="walrus">
+        <name>the jolly Walrus</name>
+        <description>The Walrus is neatly dressed in a button up vest and overcoat. He is looking in the sand for something.</description>
+        <dialogue>"The time has come," the Walrus said, "me little friends, to talk of food and things! Now if you are ready my oysters dear, we can begin the feed."</dialogue>
+        <currentLocation>beach</currentLocation>
+        <item1>screw</item1>
+        <item2>empty</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+    </actor>
+    <actor identifier="hare">
+        <name>the March Hare</name>
+        <description>The March Hare sits at the table drinking tea and muttering to himself.</description>
+        <dialogue>"It was the best butter, you know" The March Hare remarks. "But there is nothing to butter."</dialogue>
+        <currentLocation>party</currentLocation>
+        <item1>empty</item1>
+        <item2>empty</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+    </actor>
+</game>

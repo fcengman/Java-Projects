@@ -1,0 +1,7 @@
+This text adventure game takes place in the word of Alice in Wonderland. You play the character of Alice.
+-----------------------------------------------------------------------------------------
+You can use the text commands: north, east, south, west, get, examine, give, use, look, talk, and drop to interact with the world. See what you are carrying by using the commands inventory, inven, or i.
+
+Try combining these commands with object in the world to see what happens. You can quit the game at anytime by entering: Q or quit
+-----------------------------------------------------------------------------------------
+You were considering your own mind, when a rabbit with pink eyes ran close by. "Oh dear! Oh dear! I shall be late!" said the rabbit, taking out a pocket watch and looking at it. The rabbit flashed out of sight, you run across the field after it just in time to see it pop down a rabbit hole. In another moment you are right down after it. Oh! Alice! You've fallen down the rabbit hole! This location will act as your 'safe room'. You can gather object and give them to the white rabbit to hold for you. Talk to the white rabbit, he will help you find a way home.

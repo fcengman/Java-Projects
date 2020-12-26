@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<game>
+    <useCase trigger="none">
+        <identifier>none</identifier>
+        <itemUsed>none</itemUsed>
+        <responseItem>none</responseItem>
+        <LocationUsed>none</LocationUsed>
+        <responseLocation>none</responseLocation>
+        <useCaseResponse>none</useCaseResponse>
+        <description>none</description>
+        <puzzleAnswer>none</puzzleAnswer>
+    </useCase>
+    <useCase trigger="use">
+        <identifier>use_chest</identifier>
+        <itemUsed>none</itemUsed>
+        <responseItem>none</responseItem>
+        <LocationUsed>cottage</LocationUsed>
+        <responseLocation>none</responseLocation>
+        <useCaseResponse>word_puzzle</useCaseResponse>
+        <description>It worked! The chest is unlocked.</description>
+        <puzzleAnswer>aeiou</puzzleAnswer>
+    </useCase>
+    <useCase trigger="give">
+        <identifier>give_oyster_walrus</identifier>
+        <itemUsed>none</itemUsed>
+        <responseItem>screw</responseItem>
+        <LocationUsed>beach</LocationUsed>
+        <responseLocation>none</responseLocation>
+        <useCaseResponse>unhide</useCaseResponse>
+        <description>"Yum Yum!" exclaims the Walrus. "For your trouble..." The walrus offers you the White Rabbit's missing balance screw.</description>
+        <puzzleAnswer>none</puzzleAnswer>
+    </useCase>
+    <useCase trigger="use">
+        <identifier>use_mallet_castle</identifier>
+        <itemUsed>none</itemUsed>
+        <responseItem>spring</responseItem>
+        <LocationUsed>castle</LocationUsed>
+        <responseLocation>none</responseLocation>
+        <useCaseResponse>unhide</useCaseResponse>
+        <description>You use the flamingo mallet to hit the hedgehog ball. He rolls into a bush. You go to retrieve the hedgehog and see something shimmering in the light, its the missing winding spring!</description>
+        <puzzleAnswer>none</puzzleAnswer>
+    </useCase>
+    <useCase trigger="use">
+        <identifier>use_bottle_garden</identifier>
+        <itemUsed>pond</itemUsed>
+        <responseItem>oyster</responseItem>
+        <LocationUsed>garden</LocationUsed>
+        <responseLocation>none</responseLocation>
+        <useCaseResponse>add_item_to_player_inventory</useCaseResponse>
+        <description>You use the bottle to retrieve an oyster from the bottom of the pond.</description>
+        <puzzleAnswer>none</puzzleAnswer>
+    </useCase>
+    <useCase trigger="use">
+        <identifier>use_cake_cottage</identifier>
+        <itemUsed>none</itemUsed>
+        <responseItem>none</responseItem>
+        <LocationUsed>cottage</LocationUsed>
+        <responseLocation>none</responseLocation>
+        <useCaseResponse>lose_game</useCaseResponse>
+        <description>You eat the cake and begin to grow. You're legs are forced out the front door and your arms grow out the windows of the cottage. You're stuck until someone comes along.</description>
+        <puzzleAnswer>none</puzzleAnswer>
+    </useCase>
+    <useCase trigger="use">
+        <identifier>use_key_hall</identifier>
+        <itemUsed>none</itemUsed>
+        <responseItem>none</responseItem>
+        <LocationUsed>start</LocationUsed>
+        <responseLocation>beach</responseLocation>
+        <useCaseResponse>unlock</useCaseResponse>
+        <description>You unlocked the wooden door!</description>
+        <puzzleAnswer>none</puzzleAnswer>
+    </useCase>
+    <useCase trigger="get">
+        <identifier>get_brush</identifier>
+        <itemUsed>none</itemUsed>
+        <responseItem>none</responseItem>
+        <LocationUsed>castle</LocationUsed>
+        <responseLocation>none</responseLocation>
+        <useCaseResponse>lose_game</useCaseResponse>
+        <description>The Queen of Hearts marches up to you. "Who has been painting my roses red?!" Bellows the queen. "Off with her head!" A playing card gaurd grabs your arm and takes you to the dungeon.</description>
+        <puzzleAnswer>none</puzzleAnswer>
+    </useCase>
+    <useCase trigger="drop">
+        <identifier>drop_mushroom_party</identifier>
+        <itemUsed>none</itemUsed>
+        <responseItem>hand</responseItem>
+        <LocationUsed>party</LocationUsed>
+        <responseLocation>none</responseLocation>
+        <useCaseResponse>unhide</useCaseResponse>
+        <description>A mouse sneaks out from underneath a tea cup. He runs up to you and snatches the piece of mushroom you left on the table. The overturned tea cup reveals the missing minute hand!</description>
+        <puzzleAnswer>none</puzzleAnswer>
+    </useCase>
+</game>

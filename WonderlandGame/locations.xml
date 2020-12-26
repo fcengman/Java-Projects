@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<game>
+    <location identifier="none">
+        <name>No name</name>
+        <description>No description</description>
+        <northDescription>no description</northDescription>
+        <north>none</north>
+        <northLocked>0</northLocked>
+        <eastDescription>no description</eastDescription>
+        <east>none</east>
+        <eastLocked>0</eastLocked>
+        <southDescription>no description</southDescription>
+        <south>none</south>
+        <southLocked>0</southLocked>
+        <westDescription>no description</westDescription>
+        <west>none</west>
+        <westLocked>0</westLocked>
+        <item1>empty</item1>
+        <item2>empty</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+        <loseGame>0</loseGame>
+    </location>
+    <location identifier="start">
+        <name>great hall</name>
+        <description>You find yourself in a long, low hall, which is lit up by a row of lamps hanging from the roof.</description>
+        <northDescription>a crack in the wall, you could probably fit through</northDescription>
+        <north>cottage</north>
+        <northLocked>0</northLocked>
+        <eastDescription>a large wooden door</eastDescription>
+        <east>beach</east>
+        <eastLocked>1</eastLocked>
+        <southDescription>no description</southDescription>
+        <south>none</south>
+        <southLocked>0</southLocked>
+        <westDescription>no description</westDescription>
+        <west>none</west>
+        <westLocked>0</westLocked>
+        <item1>table</item1>
+        <item2>empty</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+        <loseGame>0</loseGame>
+    </location>
+    <location identifier="cottage">
+        <name>White Rabbit's cottage</name>
+        <description>You come across a neat little house. Inside is a tidy little room.</description>
+        <northDescription>a bushy path into the woods</northDescription>
+        <north>party</north>
+        <northLocked>0</northLocked>
+        <eastDescription>a gravel path with a castle in the distance</eastDescription>
+        <east>castle</east>
+        <eastLocked>0</eastLocked>
+        <southDescription>a dark, mysterious path</southDescription>
+        <south>start</south>
+        <southLocked>0</southLocked>
+        <westDescription>a garden path</westDescription>
+        <west>garden</west>
+        <westLocked>0</westLocked>
+        <item1>chest</item1>
+        <item2>empty</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+        <loseGame>0</loseGame>
+    </location>
+    <location identifier="garden">
+        <name>flower garden</name>
+        <description>You walk into a garden filled with colorful flowers. A large mushroom stands near you, your eyes immediately meet those of a large blue caterpillar.</description>
+        <northDescription>a wooded path</northDescription>
+        <north>party</north>
+        <northLocked>0</northLocked>
+        <eastDescription>a garden path</eastDescription>
+        <east>cottage</east>
+        <eastLocked>0</eastLocked>
+        <southDescription></southDescription>
+        <south>none</south>
+        <southLocked>0</southLocked>
+        <westDescription> </westDescription>
+        <west>none</west>
+        <westLocked>0</westLocked>
+        <item1>mushroom</item1>
+        <item2>pond</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+        <loseGame>0</loseGame>
+    </location>
+    <location identifier="castle">
+        <name>castle grounds</name>
+        <description>You arrive before a grand castle. Large rose trees line the entrance of the castle. The roses growing on it are white, but there are three playing card gardeners at it, busily painting them red. The grounds have been set up to play a croquet game. The Queen of Hearts stands nearby.</description>
+        <northDescription>a wooded path</northDescription>
+        <north>party</north>
+        <northLocked>0</northLocked>
+        <eastDescription> </eastDescription>
+        <east>none</east>
+        <eastLocked>0</eastLocked>
+        <southDescription></southDescription>
+        <south>none</south>
+        <southLocked>0</southLocked>
+        <westDescription>a gravel path into the woods</westDescription>
+        <west>cottage</west>
+        <westLocked>0</westLocked>
+        <item1>brush</item1>
+        <item2>mallet</item2>
+        <item3>spring</item3>
+        <item4>empty</item4>
+        <loseGame>0</loseGame>
+    </location>
+    <location identifier="party">
+        <name>tea party</name>
+        <description>You come across a house with chimneys shaped like ears, and a roof thatched with fur. There is a table set out under a tree in front of the house, and the March Hare and the Mad Hatter are having tea at it.</description>
+        <northDescription> </northDescription>
+        <north>none</north>
+        <northLocked>0</northLocked>
+        <eastDescription>a gravel path with a castle in the distance</eastDescription>
+        <east>castle</east>
+        <eastLocked>0</eastLocked>
+        <southDescription>a wooded path</southDescription>
+        <south>garden</south>
+        <southLocked>0</southLocked>
+        <westDescription>a bushy path into the woods</westDescription>
+        <west>garden</west>
+        <westLocked>0</westLocked>
+        <item1>hand</item1>
+        <item2>cup</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+        <loseGame>0</loseGame>
+    </location>
+    <location identifier="beach">
+        <name>sandy beach</name>
+        <description>You walk onto a beach. The sea was wet as wet could be, the sands were dry as dry. You could not see a cloud, because no cloud was in the sky. A walrus sits in the sand digging.</description>
+        <northDescription> </northDescription>
+        <north>none</north>
+        <northLocked>0</northLocked>
+        <eastDescription> </eastDescription>
+        <east>none</east>
+        <eastLocked>0</eastLocked>
+        <southDescription>the endless sea</southDescription>
+        <south>sea</south>
+        <southLocked>0</southLocked>
+        <westDescription>a large wooden door</westDescription>
+        <west>start</west>
+        <westLocked>0</westLocked>
+        <item1>empty</item1>
+        <item2>empty</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+        <loseGame>0</loseGame>
+    </location>
+    <location identifier="sea">
+        <name>endless sea</name>
+        <description>You wade out into the water, but the tide come up fast and washes you away. Sorry, you've lost the game. Please try again.</description>
+        <northDescription> </northDescription>
+        <north>none</north>
+        <northLocked>0</northLocked>
+        <eastDescription> </eastDescription>
+        <east>none</east>
+        <eastLocked>0</eastLocked>
+        <southDescription></southDescription>
+        <south>none</south>
+        <southLocked>0</southLocked>
+        <westDescription></westDescription>
+        <west>none</west>
+        <westLocked>0</westLocked>
+        <item1>empty</item1>
+        <item2>empty</item2>
+        <item3>empty</item3>
+        <item4>empty</item4>
+        <loseGame>1</loseGame>
+    </location>
+</game>
